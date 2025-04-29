@@ -1,1 +1,11 @@
-
+Weather_Condition,Road_Surface,Light_Condition,Vehicle_Speed,Traffic_Density,Severity
+Clear,Dry,Daylight,60,Low,0
+Rainy,Wet,Night,45,Medium,1
+Fog,Wet,Night,30,High,2
+Clear,Dry,Daylight,50,Low,0
+Rainy,Wet,Daylight,40,Medium,1
+Fog,Wet,Night,35,High,2
+Clear,Dry,Night,70,Low,1
+Rainy,Wet,Night,55,High,2
+Clear,Dry,Daylight,65,Medium,1
+Fog,Wet,Night,25,High,2
