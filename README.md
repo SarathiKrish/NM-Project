@@ -15,6 +15,7 @@ This project uses machine learning to analyze and predict traffic accident sever
 - Scikit-learn
 - Matplotlib, Seaborn
 - Streamlit
+- Sample App : https://traffic-safety-ai-kfbjhymspknyjyvo2mekec.streamlit.app/
 
 ## 🏗️ Project Setup
 
