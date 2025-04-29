@@ -21,5 +21,5 @@ This project uses machine learning to analyze and predict traffic accident sever
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/traffic-safety-ai.git
+git clone https://github.com/SarathiKrish/traffic-safety-ai.git
 cd traffic-safety-ai
